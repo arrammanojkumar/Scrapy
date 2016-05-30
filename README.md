@@ -17,3 +17,4 @@ Project configurations in eclipse :
   1. Go to Run Configurations, Set the project as : Project name
   2. Set main module to scrapy/cmdline.py
   
+![alt text](/Users/marram/Desktop/Screen_Shot.png "Description goes here")
